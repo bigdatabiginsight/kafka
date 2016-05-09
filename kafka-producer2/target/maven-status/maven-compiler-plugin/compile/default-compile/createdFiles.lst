@@ -1,0 +1,3 @@
+com\learningstorm\kafka\WordsProducer.class
+com\learningstorm\kafka\KafkaProducer.class
+com\learningstorm\kafka\KafkaConsumer.class
